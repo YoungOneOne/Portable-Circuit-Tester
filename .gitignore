@@ -1,0 +1,27 @@
+# Keil MDK-ARM build output and intermediate files
+**/TFTLCD/
+**/DebugConfig/
+**/RTE/
+**/*.o
+**/*.d
+**/*.crf
+**/*.dep
+**/*.axf
+**/*.hex
+**/*.bin
+**/*.map
+**/*.lnp
+**/*.lst
+**/*.htm
+**/*.dbgconf
+**/*.uvguix.*
+**/*.scvd
+
+# Temp and backup files
+*.~*
+*.tmp
+*.bak
+
+# OS specific files
+.DS_Store
+Thumbs.db
